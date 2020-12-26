@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Pisces-LPX.Github.io</id>
+    <id>https://lpx1301073513.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-26T00:19:58.171Z</updated>
+    <updated>2020-12-26T01:15:07.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Pisces-LPX.Github.io"/>
-    <link rel="self" href="https://Pisces-LPX.Github.io/atom.xml"/>
+    <link rel="alternate" href="https://lpx1301073513.github.io"/>
+    <link rel="self" href="https://lpx1301073513.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Pisces-LPX.Github.io/images/avatar.png</logo>
-    <icon>https://Pisces-LPX.Github.io/favicon.ico</icon>
+    <logo>https://lpx1301073513.github.io/images/avatar.png</logo>
+    <icon>https://lpx1301073513.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[图片]]></title>
+        <id>https://lpx1301073513.github.io/post/tu-pian/</id>
+        <link href="https://lpx1301073513.github.io/post/tu-pian/">
+        </link>
+        <updated>2020-12-26T00:24:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lpx1301073513.github.io/post-images/1608942323659.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呵呵哒]]></title>
+        <id>https://lpx1301073513.github.io/post/he-he-da/</id>
+        <link href="https://lpx1301073513.github.io/post/he-he-da/">
+        </link>
+        <updated>2020-12-26T00:21:30.000Z</updated>
+        <content type="html"><![CDATA[<p>小丑竟是我自己</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Pisces-LPX.Github.io/post/hello-gridea/</id>
-        <link href="https://Pisces-LPX.Github.io/post/hello-gridea/">
+        <id>https://lpx1301073513.github.io/post/hello-gridea/</id>
+        <link href="https://lpx1301073513.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
